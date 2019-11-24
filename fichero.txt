@@ -1,8 +1,8 @@
 contenido de prueba
+[contenido features/rama2]
 vamos a ver como va
-[contenido dentro de features/rama1]
-y después haremos alguna [features/rama1] cosa más
-aunque no queda claro lo que hace esto
+y después haremos alguna [features/rama2] y [features/rama1] cosa más
+aunque no [quitado "queda" en features/rama2] claro [features/rama2] lo que hace esto
 [contenido dentro de features/rama1]
 luego vamos a crear [features/rama1] distintas ramas
 

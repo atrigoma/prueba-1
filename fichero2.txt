@@ -1,1 +1,2 @@
+creado fichero en features/rama2
 [contenido features/rama1]
